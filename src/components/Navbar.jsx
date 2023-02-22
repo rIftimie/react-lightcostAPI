@@ -41,6 +41,7 @@ function Navbar() {
 								to="precioluz"
 								className="font-bold font-header"
 							>
+								<i class="fa-solid fa-lightbulb"></i>
 								COSTE DE LA LUZ
 							</NavLink>
 						</li>
